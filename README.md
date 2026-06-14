@@ -37,7 +37,5 @@ SFCT-Net/
 ### Train model
 
   ```
-- **5折交叉验证：**
-  ```bash
-  python train_5fold.py
+  python train.py
   ```
