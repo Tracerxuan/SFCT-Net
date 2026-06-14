@@ -3,7 +3,9 @@
 A Spatial–Frequency Collaborative Transformer for Robust Breast Ultrasound Tumor Segmentation
 
 
-![Figure_2.tif](https://github.com/user-attachments/files/28929676/Figure_2.tif)
+![Structure_of_model](figures/Structure_of_model.tif)
+
+![Visuralization_of_segmentation](figures/Visuralization_of_segmentation.tif)
 
 ## Structure of project
 ```text
